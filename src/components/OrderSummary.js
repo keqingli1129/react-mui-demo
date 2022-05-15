@@ -5,7 +5,7 @@ export const OrderSummary = () => {
     const navigate = useNavigate()
   return (
       <div>
-        <div>Order Summary</div>
+        <div>--Order Summary--</div>
         <button onClick={() => {navigate(-1)}}>Go back</button>
       </div>
     
